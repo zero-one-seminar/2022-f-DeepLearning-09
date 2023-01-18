@@ -2,7 +2,7 @@
 marp: true
 header: ""
 footer: "2023/01/18 ゼロイチゼミ <a href=\"https://twitter.com/nu_zero_one\" style=\"color:white\">@nu_zero_one</a>"
-theme: 01semi
+theme: 01dracula
 paginate: true
 ---
 
@@ -26,3 +26,8 @@ _paginate: false
 | - | - | - |
 | 実装 | 簡単 | 難しい |
 | 速度 | 遅い | 速い |
+
+
+## 計算グラフ
+
+※ ここでいうグラフは、[グラフ理論](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95%E7%90%86%E8%AB%96)という数学の分野においての用語
