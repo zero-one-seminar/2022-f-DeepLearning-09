@@ -71,11 +71,10 @@ $$
 
 ## 逆伝播
 
-
-
-## 加算ノードの逆伝播
-
+![h:400](images/back_prop.png)
 
 
 ## 乗算ノードの逆伝播
+
+![h:460](images/back_prop_mul.jpg)
 
