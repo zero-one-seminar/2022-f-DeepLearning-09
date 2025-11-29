@@ -1,2 +1,2 @@
-# 2022-f-DeepLearning-09
-深層学習ゼミ第9回
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
